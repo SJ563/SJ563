@@ -1,228 +1,206 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a1040,80:0f3d2e,100:0d0d0d&height=220&section=header&text=Suraj%20Singh%20Chauhan&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=%F0%9F%93%8A%20Data%20Science%20%20%7C%20%F0%9F%92%BB%20Full%20Stack%20Dev%20%20%7C%20%F0%9F%8E%93%20B.Com%20(NEP)&descAlignY=62&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,50:312e81,75:064e3b,100:0f172a&height=240&section=header&text=Suraj%20Singh%20Chauhan&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Data%20Science%20%7C%20Full%20Stack%20Development%20%7C%20Automation&descAlignY=60&descSize=18&animation=fadeIn"/>
+
+# 👋 Hello, I'm Suraj Singh Chauhan
+
+### 🚀 Data Science Enthusiast • Full Stack Developer • Automation Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+real-world+solutions+with+technology;Business+%2B+Technology+%3D+Powerful+Innovation;Data+Science+%7C+Automation+%7C+Web+Development;Always+learning+and+building+new+things" />
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=9FE1CB&center=true&vCenter=true&width=750&lines=Building+real-world+solutions+with+data+%F0%9F%9A%80;Business+%2B+Technology+%E2%80%94+The+best+of+both+worlds+%F0%9F%8C%9F;Data+Science+%7C+ML+%7C+Full+Stack+Web+Dev+%F0%9F%92%AB;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-singh-chauhan-43275b2a1)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SJ563)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-singh-chauhan-43275b2a1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SJ563)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssc799978@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SJ563&style=flat-square&color=7F77DD&label=Profile+Views)
-&nbsp;
-![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Internships%20%7C%20Freelance%20%7C%20Full--Time-1D9E75?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=SJ563&style=flat-square&color=blueviolet)
+![Open To Work](https://img.shields.io/badge/Open%20to-Internships%20%7C%20Freelance%20%7C%20Full--Time-success?style=flat-square)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 💫 About Me
 
-```python
-class SurajSinghChauhan:
-    def __init__(self):
-        self.name       = "Suraj Singh Chauhan"
-        self.location   = "Lucknow, Uttar Pradesh, India"
-        self.education  = [
-            "B.Com NEP @ LPCPS, University of Lucknow",
-            "Data Science @ Kaish Computer Institute"
-        ]
-        self.stack      = ["Python", "JavaScript", "SQL", "PHP", "HTML/CSS"]
-        self.interests  = ["Data Science", "ML", "Full Stack Dev", "RPA", "UI/UX"]
-        self.available  = True  # Open to internships, freelance & full-time
-
-    def mission(self):
-        return (
-            "Bridging Business Understanding with Modern Technology.\n"
-            "Building data-driven solutions that solve REAL problems.\n"
-            "Automated 70% of manual data-entry effort using Power Automate Desktop!"
-        )
-
-me = SurajSinghChauhan()
-print(me.mission())
-```
+🎓 B.Com (NEP) Student at University of Lucknow  
+📊 Aspiring Data Analyst & Full Stack Developer  
+⚡ Passionate about Automation, Data Science & Business Intelligence  
+🚀 Building real-world solutions using technology and data  
 
 ---
 
-## ⚡ What I Bring to the Table
+# 🚧 Currently Working On
 
-<div align="center">
-
-| Achievement | Detail |
-|---|---|
-| **70% effort reduction** | Built RPA automation with Power Automate Desktop |
-| **Full-stack project** | Institute Management System — auth, RBAC, DB |
-| **Deloitte certified** | Data Analytics Job Simulation (Forage, 2025) |
-| **Government volunteer** | Youth Utsav 2024 — Ministry of Youth Affairs & Sports |
-| **5+ certifications** | Web Dev, Data Science, DCA, Banking, Analytics |
-
-</div>
+- 📈 Data Analytics Projects
+- 🌐 Full Stack Web Applications
+- 🤖 Automation Workflows
+- 📊 Power BI Dashboards
+- 🧠 Machine Learning Fundamentals
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### 🌐 Languages & Web Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white)
+### 💻 Programming & Development
 
-### 📊 Data Science & Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-> **Algorithms:** Logistic/Linear Regression · Decision Trees · K-Means · PCA · Random Forest · XGBoost
+### 📊 Data Science & Analytics
 
-### 📈 BI, Visualization & Reporting
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Data Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 
-### 🏢 Microsoft Ecosystem
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
-![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)
+### ⚙️ Tools & Platforms
 
-### 🎨 Design & DevOps
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
-### 🏫 Institute Management System
+## 🏫 Institute Management System
 
-> Full-stack web application for an educational institute with real production features.
+💡 Full-stack web application designed for educational institutes.
 
-```
-✅ Student Records Management      ✅ Fee Tracking System
-✅ Secure Authentication           ✅ Role-Based Access Control
-✅ Admin Operations Dashboard      ✅ MySQL Database Integration
-```
+✨ Features:
+- Student Records Management
+- Fee Tracking System
+- Secure Authentication
+- Role-Based Access Control
+- Admin Dashboard
+- MySQL Database Integration
 
-`PHP` `MySQL` `JavaScript` `HTML/CSS` `Authentication` `RBAC`
+🛠️ Tech Used:
+`PHP` `MySQL` `JavaScript` `HTML/CSS`
+
+🔗 **Repository:**  
+[Click Here](https://github.com/SJ563)
 
 ---
 
-### 🤖 RPA Automation — Power Automate Desktop
+## 🤖 RPA Automation Project
 
-> Desktop-based Robotic Process Automation transforming academic data processing.
+💡 Automated academic data processing using Power Automate Desktop.
 
-```
-📥 Reads structured Excel data
-🔐 Auto-logs into web portal
-📊 Extracts student marks dynamically
-📤 Updates Excel sheets in real time
-🎯 Result: 70% reduction in manual effort + significantly fewer errors
-```
+✨ Features:
+- Reads structured Excel data
+- Auto-login to portals
+- Dynamic marks extraction
+- Real-time Excel updates
+- Reduced manual effort by 70%
 
-`Power Automate Desktop` `Excel` `RPA` `Process Automation`
+🛠️ Tech Used:
+`Power Automate Desktop` `Excel` `Automation`
+
+🔗 **Repository:**  
+[Click Here](https://github.com/SJ563)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SJ563&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=9FE1CB&icon_color=7F77DD&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJ563&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=9FE1CB&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SJ563&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SJ563&theme=tokyonight&hide_border=true&background=0d0d0d&ring=7F77DD&fire=1D9E75&currStreakLabel=9FE1CB)](https://git.io/streak-stats)
+<img height="180em" src="https://streak-stats.demolab.com?user=SJ563&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📜 Certifications
+# 🏆 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Web Designing & Development | Kaish Computer Institute | 2024 |
+| Data Science | Kaish Computer Institute | 2025 |
+| Diploma in Computer Applications (DCA) | STP Computer Education | 2023 |
+| Data Analytics Job Simulation | Deloitte via Forage | 2025 |
+| Branch Banking Executive | NSDC / Skill India | 2025 |
+
+---
+
+# 🎓 Education
+
+🎓 **B.Com (NEP)** — University of Lucknow *(2024–Present)*  
+
+🏫 **ISC Board (Class 12)** — Nirmala Convent Inter College *(2024)*  
+
+🏫 **ICSE Board (Class 10)** — Nirmala Convent Inter College *(2021)*  
+
+---
+
+# 🌟 Positions of Responsibility
+
+## Volunteer — Youth Utsav 2024
+
+📍 Nehru Yuva Kendra Lucknow  
+🏛️ Ministry of Youth Affairs & Sports, Government of India
+
+- Assisted in event coordination
+- Managed participant support activities
+- Helped execute youth engagement programs
+- Supported smooth event operations
+
+---
+
+# 💭 Philosophy
 
 <div align="center">
 
-| | Certification | Issuer | Year |
-|:---:|---|---|:---:|
-| 🟣 | **Web Designing & Development** | Kaish Computer Institute | 2024 |
-| 🟣 | **Data Science** | Kaish Computer Institute | 2025 |
-| ⚪ | **Diploma in Computer Applications (DCA)** | STP Computer Education | 2023 |
-| 🟢 | **Data Analytics Job Simulation** | Deloitte via Forage | Jun 2025 |
-| 🟡 | **Branch Banking Executive** | NSDC / Skill India | Feb 2025 |
+### *"Technology becomes meaningful when it solves real problems."*
 
 </div>
 
 ---
 
-## 🎓 Education
-
-| Qualification | Institution | Board | Year | Score |
-|---|---|---|:---:|:---:|
-| B.Com NEP (Ongoing) | LPCPS, Lucknow | University of Lucknow | 2024– | — |
-| Class 12 — Commerce + Eco + CS | Nirmala Convent Inter College | ISC Board | 2024 | 49% |
-| Class 10 — Commerce | Nirmala Convent Inter College | ICSE Board | 2021 | 80% |
-
----
-
-## 🌟 Positions of Responsibility
-
-> **Volunteer — Youth Utsav 2024**
-> *Nehru Yuva Kendra Lucknow | Ministry of Youth Affairs & Sports, GoI | Jan 2025*
-
-- Selected as official volunteer for a national-level Government of India youth event
-- Assisted in event coordination & student participant management
-- Supported cultural and youth engagement activity execution
-- Ensured smooth operation of all coordination tasks
-
----
-
-## 💭 Philosophy
+# 🎯 Areas of Interest
 
 <div align="center">
 
-> *"I don't just learn technology — I apply it to solve real problems,*
-> *combining business understanding with modern tools to create meaningful impact."*
+`🌐 Web Development`
+`📊 Data Science`
+`🤖 Automation`
+`📈 Data Visualization`
+`🎨 UI/UX`
+`⚡ Machine Learning`
 
 </div>
 
 ---
 
-## 🎯 Areas of Interest
+# 🔗 Connect With Me
 
 <div align="center">
 
-`🌐 Web Development` &nbsp; `📊 Data Science & Machine Learning` &nbsp; `🎨 UI/UX Design`
+📍 Lucknow, Uttar Pradesh, India  
 
-`📈 Data Visualization` &nbsp; `✍️ Content Writing & SEO` &nbsp; `🏷️ Brand Identity Design`
+💼 Open to:
+Internships • Freelance • Full-Time Opportunities
 
 </div>
 
@@ -230,12 +208,8 @@ print(me.mission())
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a1040,80:0f3d2e,100:0d0d0d&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,50:312e81,75:064e3b,100:0f172a&height=140&section=footer"/>
 
-### 🟢 Currently Open to Opportunities
-
-**Internships &nbsp;·&nbsp; Freelance Projects &nbsp;·&nbsp; Full-Time Roles**
-
-📍 Lucknow, UP — Open to Remote
+### ⭐ Thanks for visiting my profile!
 
 </div>
