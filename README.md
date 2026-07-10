@@ -1,24 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a1040,80:0f3d2e,100:0d0d0d&height=220&section=header&text=Suraj%20Singh%20Chauhan&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=%F0%9F%93%8A%20Data%20Science%20%20%7C%20%F0%9F%92%BB%20Full%20Stack%20Dev%20%20%7C%20%F0%9F%8E%93%20B.Com%20(NEP)&descAlignY=62&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a1040,80:0f3d2e,100:0d0d0d&height=220&section=header&text=Suraj%20Singh%20Chauhan&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=%F0%9F%93%8A%20Data%20Science%20%7C%20%F0%9F%92%BB%20SQL%20%26%20BI%20%7C%20%F0%9F%8E%93%20B.Com%20(NEP)&descAlignY=62&descSize=17&animation=fadeIn"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=9FE1CB&center=true&vCenter=true&width=750&lines=Building+real-world+solutions+with+data+%F0%9F%9A%80;Business+%2B+Technology+%E2%80%94+The+best+of+both+worlds+%F0%9F%8C%9F;Data+Science+%7C+ML+%7C+Full+Stack+Web+Dev+%F0%9F%92%AB;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=9FE1CB&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+decisions+%F0%9F%93%88;Python+%7C+SQL+%7C+Machine+Learning+%7C+Power+BI+%F0%9F%92%BB;Cut+manual+work+by+70%25+with+RPA+automation+%E2%9A%A1;Data+Analyst+%7C+Junior+Data+Scientist+aspirant+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-singh-chauhan-43275b2a1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-singh-chauhan)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SJ563)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssc799978@gmail.com)
+[![Phone](https://img.shields.io/badge/Call-+91%207398828871-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917398828871)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SJ563&style=flat-square&color=7F77DD&label=Profile+Views)
 &nbsp;
-![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Internships%20%7C%20Freelance%20%7C%20Full--Time-1D9E75?style=flat-square)
+![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Data%20Analyst%20%7C%20Jr.%20Data%20Scientist-1D9E75?style=flat-square)
 
 </div>
 
@@ -32,18 +33,19 @@ class SurajSinghChauhan:
         self.name       = "Suraj Singh Chauhan"
         self.location   = "Lucknow, Uttar Pradesh, India"
         self.education  = [
-            "B.Com NEP @ LPCPS, University of Lucknow",
-            "Data Science @ Kaish Computer Institute"
+            "B.Com (NEP), 3rd Year — Univ. of Lucknow, 2026–Present",
+            "Certified Data Science Programme — Kaish Computer Institute, 2026–Present"
         ]
-        self.stack      = ["Python", "JavaScript", "SQL", "PHP", "HTML/CSS"]
-        self.interests  = ["Data Science", "ML", "Full Stack Dev", "RPA", "UI/UX"]
-        self.available  = True  # Open to internships, freelance & full-time
+        self.toolkit    = ["Python", "SQL", "Power BI", "Tableau", "Excel"]
+        self.ml_focus   = ["Regression", "Trees & Ensembles", "K-Means", "PCA"]
+        self.highlight  = "Reduced manual data-processing effort by ~70% via RPA"
+        self.open_to    = ["Data Analyst", "Junior Data Scientist", "Internships"]
 
     def mission(self):
         return (
-            "Bridging Business Understanding with Modern Technology.\n"
-            "Building data-driven solutions that solve REAL problems.\n"
-            "Automated 70% of manual data-entry effort using Power Automate Desktop!"
+            "Results-oriented Data Science aspirant translating messy data\n"
+            "into clean pipelines, predictive models, and stakeholder-ready\n"
+            "dashboards — built on a strong commerce & analytics foundation."
         )
 
 me = SurajSinghChauhan()
@@ -52,17 +54,18 @@ print(me.mission())
 
 ---
 
-## ⚡ What I Bring to the Table
+## ⚡ Highlights
 
 <div align="center">
 
 | Achievement | Detail |
 |---|---|
-| **70% effort reduction** | Built RPA automation with Power Automate Desktop |
-| **Full-stack project** | Institute Management System — auth, RBAC, DB |
-| **Deloitte certified** | Data Analytics Job Simulation (Forage, 2025) |
-| **Government volunteer** | Youth Utsav 2024 — Ministry of Youth Affairs & Sports |
-| **5+ certifications** | Web Dev, Data Science, DCA, Banking, Analytics |
+| 🤖 **~70% effort reduction** | End-to-end RPA pipeline built in Power Automate Desktop |
+| 🧮 **Full ML workflow** | Churn prediction (Logistic Regression, Random Forest) with Confusion Matrix, Precision/Recall, Cross-Validation |
+| 🧩 **Customer Segmentation** | Unsupervised learning with K-Means Clustering & PCA |
+| 🗄️ **Full-stack DB system** | Institute Management System with RBAC & secure auth |
+| 🏆 **Deloitte certified** | Data Analytics Job Simulation via Forage (Jun 2025) |
+| 🇮🇳 **Govt. of India volunteer** | Youth Utsav 2024 — Ministry of Youth Affairs & Sports |
 
 </div>
 
@@ -72,43 +75,44 @@ print(me.mission())
 
 <div align="center">
 
-### 🌐 Languages & Web Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white)
-
 ### 📊 Data Science & Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-> **Algorithms:** Logistic/Linear Regression · Decision Trees · K-Means · PCA · Random Forest · XGBoost
+> **Algorithms:** Linear & Logistic Regression · Decision Tree · Random Forest · SVM · KNN · K-Means · PCA
+> **Evaluation:** Confusion Matrix · Precision/Recall · Cross-Validation
 
-### 📈 BI, Visualization & Reporting
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+> Joins · Subqueries · Aggregations · Views & Indexing · Schema Design · Data Modelling
+
+### 📈 BI & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Data Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
-
-### 🏢 Microsoft Ecosystem
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
-![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)
 
-### 🎨 Design & DevOps
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+> Power BI (DAX, Data Modelling, KPI Dashboards) · Tableau · Excel (VLOOKUP, Pivot Tables, Advanced Functions)
+
+### ☁️ Cloud & Automation
+![AWS](https://img.shields.io/badge/AWS%20S3%20%2F%20EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate%20Desktop-0066FF?style=flat-square&logo=microsoft&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+
+> AWS S3 & EC2 (basic) · GitHub project workflows · Basic ML pipeline understanding · ETL & Process Automation
+
+### 🏢 Productivity Suite
+![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
+![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)
 
 </div>
 
@@ -118,35 +122,51 @@ print(me.mission())
 
 <div align="center">
 
-### 🏫 Institute Management System
-
-> Full-stack web application for an educational institute with real production features.
-
-```
-✅ Student Records Management      ✅ Fee Tracking System
-✅ Secure Authentication           ✅ Role-Based Access Control
-✅ Admin Operations Dashboard      ✅ MySQL Database Integration
-```
-
-`PHP` `MySQL` `JavaScript` `HTML/CSS` `Authentication` `RBAC`
-
----
-
-### 🤖 RPA Automation — Power Automate Desktop
-
-> Desktop-based Robotic Process Automation transforming academic data processing.
-
-```
-📥 Reads structured Excel data
-🔐 Auto-logs into web portal
-📊 Extracts student marks dynamically
-📤 Updates Excel sheets in real time
-🎯 Result: 70% reduction in manual effort + significantly fewer errors
-```
-
-`Power Automate Desktop` `Excel` `RPA` `Process Automation`
+### 📊 Data Science Coursework Projects
+*Kaish Computer Institute, Lucknow — 2026–Present*
 
 </div>
+
+- 🔍 Ran structured **EDA** on Sales, Finance & Marketing datasets (Python — Pandas, Matplotlib, Seaborn), surfacing key trends, outliers, and business-critical correlations
+- 🎯 Built a **Customer Churn Prediction** model (Logistic Regression + Random Forest), validated with Confusion Matrix, Precision/Recall, and Cross-Validation
+- 🧩 Developed a **Customer Segmentation** solution using K-Means Clustering & PCA to derive actionable customer cohorts from transactional data
+- 📈 Built **KPI dashboards** in Power BI and Tableau using DAX measures for stakeholder-ready BI reporting
+- 🧹 Implemented **data cleaning pipelines** — missing values, outlier treatment, and feature encoding — prior to modelling
+
+`Python` `Pandas` `Scikit-learn` `Power BI` `Tableau` `EDA` `ML`
+
+<br/>
+
+<div align="center">
+
+### 🏫 Institute Management System — Full-Stack Database Application
+*2024*
+
+</div>
+
+- 🗄️ Architected a **normalised relational database schema** covering student records, fee tracking, and administrative workflows
+- ✅ Built backend validation & processing logic ensuring **100% data consistency** across all modules
+- 🔐 Implemented **Role-Based Access Control (RBAC)** and secure authentication aligned with enterprise data governance standards
+- 📄 Authored technical documentation — architecture diagrams, data flow maps, user guides — per SOP best practices
+- 🧪 Ran end-to-end functional testing and UAT support across the SDLC
+
+`Database Design` `RBAC` `Authentication` `SDLC` `Documentation`
+
+<br/>
+
+<div align="center">
+
+### 🤖 RPA Automation — Power Automate Desktop
+*Academic Data Processing — 2026*
+
+</div>
+
+- ⚙️ Designed an end-to-end **RPA pipeline**: extracted data from Excel, transformed it via a loop-based ETL workflow, and updated records in real time
+- 📉 Reduced manual data-processing effort by **~70%**, freeing analyst capacity for higher-value work
+- 🛡️ Implemented robust exception handling for invalid credentials & missing records — production-level data quality controls
+- 📝 Produced full process documentation: solution design, test scenarios, exception-handling logic
+
+`Power Automate Desktop` `ETL` `RPA` `Process Automation`
 
 ---
 
@@ -167,17 +187,17 @@ print(me.mission())
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Training
 
 <div align="center">
 
-| | Certification | Issuer | Year |
+| | Certification | Issuer | Period |
 |:---:|---|---|:---:|
-| 🟣 | **Web Designing & Development** | Kaish Computer Institute | 2024 |
-| 🟣 | **Data Science** | Kaish Computer Institute | 2025 |
-| ⚪ | **Diploma in Computer Applications (DCA)** | STP Computer Education | 2023 |
-| 🟢 | **Data Analytics Job Simulation** | Deloitte via Forage | Jun 2025 |
-| 🟡 | **Branch Banking Executive** | NSDC / Skill India | Feb 2025 |
+| 🟣 | **Data Science Programme** *(Pursuing)* — Python, ML, EDA, SQL, Power BI, Tableau, AWS | Kaish Computer Institute, Lucknow | 2026 – Present |
+| 🟢 | **Data Analytics Job Simulation** — data analytics, business interpretation, structured reporting | Deloitte (via Forage) | Jun 2025 |
+| 🟡 | **Branch Banking Executive** — business operations, documentation, communication | NSDC / Skill India | Feb 2025 |
+| 🔵 | **Web Designing & Development** — full-stack development, database integration | Kaish Computer Institute, Lucknow | Aug 2023 – Jan 2024 |
+| ⚪ | **Diploma in Computer Applications (DCA)** — computing fundamentals, databases, MS Office | STP Computer Education, Lucknow | Sep 2023 |
 
 </div>
 
@@ -185,23 +205,22 @@ print(me.mission())
 
 ## 🎓 Education
 
-| Qualification | Institution | Board | Year | Score |
+| Qualification | Institution | Board / University | Year | Score |
 |---|---|---|:---:|:---:|
-| B.Com NEP (Ongoing) | LPCPS, Lucknow | University of Lucknow | 2024– | — |
-| Class 12 — Commerce + Eco + CS | Nirmala Convent Inter College | ISC Board | 2024 | 49% |
-| Class 10 — Commerce | Nirmala Convent Inter College | ICSE Board | 2021 | 80% |
+| B.Com (NEP), 3rd Year — *Pursuing* | Lucknow Public College of Professional Studies | University of Lucknow | 2026 – Present | — |
+| Class XII — Commerce, Economics & Computer Science | Nirmala Convent Inter College, Lucknow | ISC | 2024 | — |
+| Class X | Nirmala Convent Inter College, Lucknow | ICSE | 2021 | 80% |
 
 ---
 
 ## 🌟 Positions of Responsibility
 
 > **Volunteer — Youth Utsav 2024**
-> *Nehru Yuva Kendra Lucknow | Ministry of Youth Affairs & Sports, GoI | Jan 2025*
+> *Nehru Yuva Kendra, Lucknow | Ministry of Youth Affairs & Sports, Govt. of India | Jan 2025*
 
-- Selected as official volunteer for a national-level Government of India youth event
-- Assisted in event coordination & student participant management
-- Supported cultural and youth engagement activity execution
-- Ensured smooth operation of all coordination tasks
+- Selected as a volunteer for a national-level youth event
+- Coordinated logistics and managed multi-stakeholder communications
+- Produced structured documentation of event activities for official records
 
 ---
 
@@ -210,19 +229,22 @@ print(me.mission())
 <div align="center">
 
 > *"I don't just learn technology — I apply it to solve real problems,*
-> *combining business understanding with modern tools to create meaningful impact."*
+> *combining a commerce foundation with modern analytical tools to drive*
+> *data-informed decisions."*
 
 </div>
 
 ---
 
-## 🎯 Areas of Interest
+## 🎯 Core Competencies
 
 <div align="center">
 
-`🌐 Web Development` &nbsp; `📊 Data Science & Machine Learning` &nbsp; `🎨 UI/UX Design`
+`🧠 Analytical Mindset` &nbsp; `📊 Data-Driven Problem Solving` &nbsp; `🤖 Machine Learning`
 
-`📈 Data Visualization` &nbsp; `✍️ Content Writing & SEO` &nbsp; `🏷️ Brand Identity Design`
+`📈 Business Intelligence` &nbsp; `🔍 Attention to Detail` &nbsp; `📝 Technical Documentation`
+
+`⚙️ ETL & Automation` &nbsp; `🤝 Team Collaboration` &nbsp; `🌱 Continuous Learning`
 
 </div>
 
@@ -234,8 +256,9 @@ print(me.mission())
 
 ### 🟢 Currently Open to Opportunities
 
-**Internships &nbsp;·&nbsp; Freelance Projects &nbsp;·&nbsp; Full-Time Roles**
+**Data Analyst &nbsp;·&nbsp; Junior Data Scientist &nbsp;·&nbsp; Internships**
 
-📍 Lucknow, UP — Open to Remote
+📍 Lucknow, Uttar Pradesh — Open to Remote
+📧 ssc799978@gmail.com &nbsp;·&nbsp; 📱 +91-7398828871
 
 </div>
